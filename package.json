@@ -1,0 +1,19 @@
+{
+  "name": "generator-easyelectron",
+  "version": "0.0.1",
+  "description": "Very simple Yeoman Electron app generator.",
+  "keywords": [
+    "yeoman-generator",
+    "electron",
+    "atom-shell"
+  ],
+  "author": "Jason Stallings",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octalmage/generator-easyelectron/"
+  },
+  "dependencies": {
+    "yeoman-generator": "^0.18.6"
+  }
+}
