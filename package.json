@@ -1,6 +1,6 @@
 {
   "name": "generator-easyelectron",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Very simple Yeoman Electron app generator.",
   "keywords": [
     "yeoman-generator",
